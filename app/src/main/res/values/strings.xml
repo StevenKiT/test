@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidTest</string>
+    <string name="EasyNote">EasyNote</string>
+    <string name="Go">Go</string>
+    <string name="listOfNotes">list of notes :</string>
+    <string name="EditNotes">EditNotes :</string>
 </resources>
