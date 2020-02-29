@@ -8,7 +8,7 @@ import android.widget.EditText;
 import android.content.SharedPreferences;
 import android.view.View;
 import android.os.Bundle;
-
+//更改一下提交
 public class MainActivity extends AppCompatActivity {
 
     EditText txtContent, txtTitle;
