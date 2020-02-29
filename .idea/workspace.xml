@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b9ab687-8d85-4a4f-8a42-f704f133ac6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YUlN53Ni8C99QTOg6zdiMPNRZR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b9ab687-8d85-4a4f-8a42-f704f133ac6d" name="Default Changelist" comment="" />
+      <created>1583005010670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583005010670</updated>
+      <workItem from="1583005015555" duration="881000" />
+      <workItem from="1583005929478" duration="6417000" />
+    </task>
+    <task id="LOCAL-00001" summary="This is just a test for this function">
+      <created>1583007752200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583007752200</updated>
+    </task>
+    <task id="LOCAL-00002" summary="This is just a test for this function">
+      <created>1583009655318</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583009655318</updated>
+    </task>
+    <task id="LOCAL-00003" summary="This is just a test for this function">
+      <created>1583010144264</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583010144264</updated>
+    </task>
+    <task id="LOCAL-00004" summary="这是第二次更改测试文件">
+      <created>1583010549348</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583010549348</updated>
+    </task>
+    <task id="LOCAL-00005" summary="这是第二次更改测试文件">
+      <created>1583010601613</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583010601613</updated>
+    </task>
+    <task id="LOCAL-00006" summary="这是第二次更改测试文件">
+      <created>1583011459693</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583011459693</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is just a test for this function" />
+    <MESSAGE value="这是第二次更改测试文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是第二次更改测试文件" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="834" y="342" key="#Notifications" timestamp="1583011768364">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="834" y="342" key="#Notifications/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583011768364" />
+    <state x="1379" y="419" width="1242" height="620" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1583011894055">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1379" y="419" width="1242" height="620" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583011894055" />
+    <state x="539" y="291" width="1577" height="1082" key="CommitChangelistDialog2" timestamp="1583011458040">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="539" y="291" width="1577" height="1082" key="CommitChangelistDialog2/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583011458040" />
+    <state x="408" y="207" key="DiffContextDialog" timestamp="1583007595910">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="408" y="207" key="DiffContextDialog/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583007595910" />
+    <state x="2043" y="471" key="FileChooserDialogImpl" timestamp="1583007457551">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2043" y="471" key="FileChooserDialogImpl/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583007457551" />
+    <state x="1742" y="593" key="Github.CreateGistDialog" timestamp="1583007233667">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1742" y="593" key="Github.CreateGistDialog/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583007233667" />
+    <state width="1932" height="325" key="GridCell.Tab.0.bottom" timestamp="1583010452439">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1932" height="325" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583010452439" />
+    <state width="1932" height="325" key="GridCell.Tab.0.center" timestamp="1583010452439">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1932" height="325" key="GridCell.Tab.0.center/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583010452439" />
+    <state width="1932" height="325" key="GridCell.Tab.0.left" timestamp="1583010452439">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1932" height="325" key="GridCell.Tab.0.left/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583010452439" />
+    <state width="1932" height="325" key="GridCell.Tab.0.right" timestamp="1583010452439">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1932" height="325" key="GridCell.Tab.0.right/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583010452439" />
+    <state x="1218" y="439" width="1347" height="606" key="NewModule_or_Project.wizard" timestamp="1583006466266">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1218" y="439" width="1347" height="606" key="NewModule_or_Project.wizard/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583006466266" />
+    <state x="1033" y="543" key="SettingsEditor" timestamp="1583012171366">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1033" y="543" key="SettingsEditor/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583012171366" />
+    <state x="1424" y="492" key="VCS.ChangeListViewerDialog" timestamp="1583012088995">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1424" y="492" key="VCS.ChangeListViewerDialog/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583012088995" />
+    <state x="1033" y="436" key="Vcs.Push.Dialog.v2" timestamp="1583012213138">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1033" y="436" key="Vcs.Push.Dialog.v2/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583012213138" />
+    <state x="1460" y="583" key="com.intellij.ide.util.TipDialog" timestamp="1583005929845">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1460" y="583" key="com.intellij.ide.util.TipDialog/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583005929845" />
+    <state x="1402" y="579" key="git4idea.merge.GitPullDialog" timestamp="1583011934043">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1402" y="579" key="git4idea.merge.GitPullDialog/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583011934043" />
+    <state x="1467" y="682" key="git4idea.ui.GitResetDialog" timestamp="1583012090088">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1467" y="682" key="git4idea.ui.GitResetDialog/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583012090088" />
+    <state x="616" y="407" key="new project wizard" timestamp="1583011099083">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="616" y="407" key="new project wizard/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583011099083" />
+    <state x="898" y="324" key="run.anything.popup" timestamp="1583009307651">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="898" y="324" key="run.anything.popup/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583009307651" />
+    <state x="1346" y="430" key="search.everywhere.popup" timestamp="1583011399060">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1346" y="430" key="search.everywhere.popup/0.0.3440.1400/3440.0.1080.1880@0.0.3440.1400" timestamp="1583011399060" />
+  </component>
+</project>
